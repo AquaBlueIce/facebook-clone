@@ -1,0 +1,24 @@
+.right-contact-section {
+  display: flex;
+
+}
+
+.contact-search-button {
+  margin-right: 20px;
+}
+
+
+
+.contact-person {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.friend-profile {
+  background-color: red;
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  margin-right: 10px;
+}

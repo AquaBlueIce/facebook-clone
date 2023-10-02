@@ -1,0 +1,35 @@
+.sponsored-section {
+  /* background-color: rgb(43, 43, 43); */
+  height: fit-content;
+}
+
+
+
+.sponsor-holder {
+  /* background-color: aliceblue; */
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+
+}
+
+.sponsor-holder p {
+  color: white;
+}
+
+.sponsor-logo {
+  background-color: aquamarine;
+  height: 100px;
+  width: 100px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+
+
+.sponsor-site p{
+  font-size: 12px;
+  font-weight: 200;
+  letter-spacing: normal;
+  color: rgb(180, 180, 180);
+}

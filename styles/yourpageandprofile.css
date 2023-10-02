@@ -1,0 +1,56 @@
+.your-pages-and-profiles-section {
+  /* background-color: black; */
+  height: fit-content;
+  display: block;
+
+}
+
+.your-pages-and-profiles-section button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+
+
+.page-button {
+  display: flex;
+  align-items: center;
+}
+
+.page-button p{
+  font-weight: bold;
+}
+
+.create-promotion-logo,
+.switch-into-logo {
+  /* background-color: red; */
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  margin-right: 10px;
+  margin-left: 10px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.page-profile {
+  /* background-color: red; */
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  margin-right: 10px;
+  overflow: hidden;
+}
+
+.page-profile img {
+  height: 100%;
+  width: 100%;
+  transform: scale(1.3);
+}
+
+
+

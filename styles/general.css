@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: Segoe UI Historic, Segoe UI, Helvetica, Arial, sans-serif;
+  font-weight: bolder;
+  font-size: 14px;
+  letter-spacing: 1px;
+  
+}
+
+hr {
+  height: .2px;
+  background-color: rgb(90, 90, 90);;
+  border-style: none;
+}
+
+button {
+  background-color: transparent;
+  border-radius: 5px;
+  border-style: none;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-title {
+  color: rgb(180, 180, 180);
+  /* background-color: gray; */
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.section-title p{
+  font-size: 15px;
+
+  font-weight: 600;
+}
