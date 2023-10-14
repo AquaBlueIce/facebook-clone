@@ -1,0 +1,15 @@
+@media screen and (max-width: 1100px) {
+  .body-left-section {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .body-right-section {
+    display: none;
+  }
+
+  .body-section {
+    justify-content: center;
+  }
+}
